@@ -1,0 +1,2 @@
+# Soren_Cp_learning
+这是一个用于测试GitHub和上传CPP代码的仓库
